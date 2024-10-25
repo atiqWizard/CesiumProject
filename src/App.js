@@ -1,7 +1,8 @@
-import { Viewer } from "resium";
+// import { Viewer } from "resium";
+import CesiumComponent from "./components/CesiumComponent";
 
 function App() {
-  return <Viewer />;
+  return <CesiumComponent />;
 }
 
 export default App;

@@ -1,0 +1,16 @@
+{
+  "user1": [
+    { "key": "karachi", "name": "Karachi", "longitude": 67.0011, "latitude": 24.8607, "shortRadius": 500, "mediumRadius": 1000, "largeRadius": 1500 },
+    { "key": "islamabad", "name": "Islamabad", "longitude": 73.0479, "latitude": 33.6844, "shortRadius": 500, "mediumRadius": 1000, "largeRadius": 1500 },
+    { "key": "lahore", "name": "Lahore", "longitude": 74.3587, "latitude": 31.5204, "shortRadius": 500, "mediumRadius": 1000, "largeRadius": 1500 },
+    { "key": "peshawar", "name": "Peshawar", "longitude": 71.5249, "latitude": 34.0151, "shortRadius": 500, "mediumRadius": 1000, "largeRadius": 1500 }
+  ],
+  "user2": [
+    { "key": "mumbai", "name": "Mumbai", "longitude": 72.8777, "latitude": 19.076, "shortRadius": 500, "mediumRadius": 1000, "largeRadius": 1500 },
+    { "key": "delhi", "name": "Delhi", "longitude": 77.1025, "latitude": 28.7041, "shortRadius": 500, "mediumRadius": 1000, "largeRadius": 1500 }
+  ],
+  "user3": [
+    { "key": "beijing", "name": "Beijing", "longitude": 116.4074, "latitude": 39.9042, "shortRadius": 500, "mediumRadius": 1000, "largeRadius": 1500 },
+    { "key": "shanghai", "name": "Shanghai", "longitude": 121.4737, "latitude": 31.2304, "shortRadius": 500, "mediumRadius": 1000, "largeRadius": 1500 }
+  ]
+}
